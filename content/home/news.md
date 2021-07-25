@@ -26,6 +26,9 @@ design:
 
 ---
 ## <span style="color:gray">2021</span>
+
+<span style="background-color: green">**[2021-07-23]** Learning To Cut by Watching Movies was accepted at [ICCV 2021](http://iccv2021.thecvf.com/home). ArXiv version coming soon!</span>
+
 **[2021-07-19]** BAOD won Best Paper Award at the [LatinX in Computer Vision Workshop at CVPR 2021](https://www.latinxinai.org/cvpr-2021-about).\
 **[2021-05-19]** I'm co-organizing the first [Workshop on AI for Creative Video Editing and Understanding CVEU](https://cveu.github.io/) at [ICCV 2021](http://iccv2021.thecvf.com/home).\
 **[2021-03-01]** I'm co-organizing the first [LatinX in Computer Vision Workshop at CVPR 2021](https://www.latinxinai.org/cvpr-2021-about).
