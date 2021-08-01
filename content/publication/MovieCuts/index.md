@@ -1,5 +1,5 @@
 ---
-title: "Learning to Cut by Watching Movies"
+title: "MovieCuts: A New Dataset and Benchmark for Cut Type Recognition"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,13 +29,13 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted at *Internation Conference of Computer Vision 2021*
-publication_short: Accepted at *ICCV 2021*
+publication: Preprint at *ArXiv* 
+publication_short: Preprint at *Arxiv*
 
-abstract: Video content creation keeps growing at an incredible pace; yet, creating engaging stories remains challenging and requires non-trivial video editing expertise. Many video editing components are astonishingly hard to automate primarily due to the lack of raw video materials. This paper focuses on a new task for computational video editing, namely the task of raking cut plausibility. Our key idea is to leverage content that has already been edited to learn fine-grained audiovisual patterns that trigger cuts. To do this, we first collected a data source of more than 10K videos, from which we extract more than 260K cuts. We devise a model that learns to discriminate between real and artificial cuts via contrastive learning. We set up a new task and a set of baselines to benchmark video cut generation. We observe that our proposed model outperforms the baselines by large margins. To demonstrate our model in real-world applications, we conduct human studies in a collection of unedited videos. The results show that our model does a better job at cutting than random and alternative baselines.
+abstract: Understanding movies and their structural patterns is a crucial task to decode the craft of video editing. While previous works have developed tools for general analysis such as detecting characters or recognizing cinematography properties at the shot level, less effort has been devoted to understanding the most basic video edit, **the Cut**. This paper introduces the cut type recognition task, which requires modeling of multi-modal information. To ignite research in the new task, we construct a large-scale dataset called MovieCuts, which contains more than 170K video clips labeled among ten cut types. We benchmark a series of audio-visual approaches, including some that deal with the problem's multi-modal and multi-label nature. Our best model achieves 45.7% mAP, which suggests that the task is challenging and that attaining highly accurate cut type recognition is an open research problem.
 
 # Summary. An optional shortened abstract.
-summary: We propose a new method and pipeline to create video rditing cuts recommendations. Our method utilizes the information of already edited content (movies) to learn patterns between plausible and not plausible cuts via contrastive learning. We set up a new task and a set of baselines to benchmark video cut generation. To demonstrate our model in real-world applications, we conduct human studies in a collection of unedited videos. The results show that our model does a better job at cutting than random and alternative baselines.
+summary: Understanding movies and their structural patterns is a crucial task to decode the craft of video editing. While previous works have developed tools for general analysis such as detecting characters or recognizing cinematography properties at the shot level, less effort has been devoted to understanding the most basic video edit, **the Cut**. We construct a large-scale dataset called MovieCuts, which contains more than 170K video clips labeled among ten cut types. 
 
 tags: []
 
