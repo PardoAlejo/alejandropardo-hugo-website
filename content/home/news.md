@@ -42,7 +42,8 @@ design:
 ## <span style="color:gray">2020</span>
 
 <span style="color:gray">[2020-11-02]</span> [RefineLoc](http://www.humamalwassel.com/publication/refineloc/) got accepted as a poster at the Winter Conference on Applications of Computer Vision [WACV](http://wacv2021.thecvf.com/home)
-**[2020-08-25]** I received the Outstanding Reviewer Award from [BMVC](https://www.bmvc2020-conference.com/)
+
+<span style="color:gray">[2020-08-25]</span> I received the Outstanding Reviewer Award from [BMVC](https://www.bmvc2020-conference.com/)
 
 ## <span style="color:gray">2019</span>
 

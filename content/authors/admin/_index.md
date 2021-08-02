@@ -32,7 +32,7 @@ education:
     - course: B.Sc. Electrical Engineering
       institution: Universidad de los Andes
       year: 2011 - 2016
-    - course: B.Sc. Electrical Engineering
+    - course: B.Sc. Biomedical Engineering
       institution: Universidad de los Andes
       year: 2011 - 2016
     - course: M.Sc. Biomedical Engineering
