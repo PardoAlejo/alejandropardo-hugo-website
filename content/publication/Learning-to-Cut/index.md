@@ -48,7 +48,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: arxiv.com
-url_code: github.com
+url_code: https://github.com/PardoAlejo/LearningToCut.git
+links:
+- name: Supp
+  url: https://drive.google.com/file/d/1Wkm77Fdu11yxEb3rbpk5J583zA2UcOJF/view?usp=sharing
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
