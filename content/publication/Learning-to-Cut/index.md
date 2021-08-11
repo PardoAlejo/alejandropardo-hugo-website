@@ -47,11 +47,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: arxiv.com
+url_pdf: https://arxiv.org/pdf/2108.04294.pdf
 url_code: https://github.com/PardoAlejo/LearningToCut.git
 links:
 - name: Supp
   url: https://drive.google.com/file/d/1Wkm77Fdu11yxEb3rbpk5J583zA2UcOJF/view?usp=sharing
+- name: Preprint
+  url: https://arxiv.org/abs/2108.04294
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
