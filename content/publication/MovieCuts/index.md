@@ -43,11 +43,10 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: arxiv.com
+links:
+- name: Preprint 
+  url: https://arxiv.org/abs/2109.05569
+url_pdf: https://arxiv.org/pdf/2109.05569.pdf
 url_code: github.com
 # url_dataset: ''
 # url_poster: ''
