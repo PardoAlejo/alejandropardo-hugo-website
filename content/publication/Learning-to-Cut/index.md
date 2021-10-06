@@ -52,8 +52,11 @@ url_code: https://github.com/PardoAlejo/LearningToCut.git
 links:
 - name: Supp
   url: https://drive.google.com/file/d/1Wkm77Fdu11yxEb3rbpk5J583zA2UcOJF/view?usp=sharing
+- name: Publication
+  url: https://openaccess.thecvf.com/content/ICCV2021/html/Pardo_Learning_To_Cut_by_Watching_Movies_ICCV_2021_paper.html
 - name: Preprint
   url: https://arxiv.org/abs/2108.04294
+
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
