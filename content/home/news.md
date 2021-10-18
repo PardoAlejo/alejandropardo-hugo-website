@@ -29,11 +29,14 @@ design:
 
 <div class="view-list-item">
 
+<span style="color:gray">[2021-08-09]</span> Learning To Cut by Watching Movies' Code available now! [CODE](https://github.com/PardoAlejo/LearningToCut)
+
+
 <span style="color:gray">[2021-09-12]</span> MovieCuts' [preprint](https://arxiv.org/abs/2109.05569) available now.
 
 <span style="color:gray">[2021-08-09]</span> Learning To Cut by Watching Movies' [preprint](https://arxiv.org/abs/2108.04294) available now.
 
-<span style="color:gray">[2021-07-23]</span> Learning To Cut by Watching Movies was accepted at [ICCV 2021](http://iccv2021.thecvf.com/home). ArXiv version coming soon!
+<span style="color:gray">[2021-07-23]</span> Learning To Cut by Watching Movies was accepted at [ICCV 2021](http://iccv2021.thecvf.com/home). 
 
 <span style="color:gray">[2021-07-19]</span> BAOD won Best Paper Award at the [LatinX in Computer Vision Workshop at CVPR 2021](https://www.latinxinai.org/cvpr-2021-about).
 
