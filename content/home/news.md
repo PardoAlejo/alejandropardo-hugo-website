@@ -29,6 +29,9 @@ design:
 
 <div class="view-list-item">
 
+<span style="color:gray">[2021-03-11]</span> Computer Vision News published a nice review of our work in their [BEST OF ICCV selection](https://www.rsipvision.com/ComputerVisionNews-2021November/32/)! [LINK](https://www.rsipvision.com/ComputerVisionNews-2021November/32/)
+
+
 <span style="color:gray">[2021-08-09]</span> Learning To Cut by Watching Movies' Code available now! [CODE](https://github.com/PardoAlejo/LearningToCut)
 
 
