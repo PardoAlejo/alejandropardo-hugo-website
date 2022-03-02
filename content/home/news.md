@@ -25,9 +25,15 @@ design:
 #     text_color_light: true
 
 ---
+
+## <span style="color:gray">2022</span>
+
+<span style="color:gray">[2022-03-02]</span> MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions was accepted at CVPR 2022. [Preprint here](https://arxiv.org/abs/2112.00431). 
+
 ## <span style="color:gray">2021</span>
 
 <div class="view-list-item">
+
 
 <span style="color:gray">[2021-03-11]</span> Computer Vision News published a nice review of our work in their [BEST OF ICCV selection](https://www.rsipvision.com/ComputerVisionNews-2021November/32/) --> [Go and check it out!](https://www.rsipvision.com/ComputerVisionNews-2021November/32/)
 
