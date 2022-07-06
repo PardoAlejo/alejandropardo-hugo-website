@@ -28,6 +28,10 @@ design:
 
 ## <span style="color:gray">2022</span>
 
+<span style="color:gray">[2022-07-03]</span> MovieCuts Accepted at ECCV 2022! [Publication coming soon!]. 
+
+<span style="color:gray">[2022-06-21]</span> We presented MAD at CVPR 2022! [Publication here](https://openaccess.thecvf.com/content/CVPR2022/html/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.html). 
+
 <span style="color:gray">[2022-03-02]</span> MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions was accepted at CVPR 2022. [Preprint here](https://arxiv.org/abs/2112.00431). 
 
 ## <span style="color:gray">2021</span>

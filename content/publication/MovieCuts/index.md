@@ -1,0 +1,78 @@
+---
+title: "MovieCuts: A New Dataset and Benchmark for Cut Type Recognition"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Fabian Caba Heilbron
+- Juan León Alcázar
+- Ali Thabet
+- Bernard Ghanem
+
+# Author notes (optional)
+author_notes:
+- ""
+# - "Equal contribution"
+
+date: "2022-07-03T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-07-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: Accepted at *European Conference of Computer Vision 2022*
+publication_short: Accepted at *ECCV 2022*
+
+abstract: Understanding movies and their structural patterns is a crucial task to decode the craft of video editing. While previous works have developed tools for general analysis such as detecting characters or recognizing cinematography properties at the shot level, less effort has been devoted to understanding the most basic video edit, **the Cut**. This paper introduces the cut type recognition task, which requires modeling of multi-modal information. To ignite research in the new task, we construct a large-scale dataset called MovieCuts, which contains more than 170K video clips labeled among ten cut types. We benchmark a series of audio-visual approaches, including some that deal with the problem's multi-modal and multi-label nature. Our best model achieves 45.7% mAP, which suggests that the task is challenging and that attaining highly accurate cut type recognition is an open research problem.
+
+# Summary. An optional shortened abstract.
+summary: Understanding movies and their structural patterns is a crucial task to decode the craft of video editing. While previous works have developed tools for general analysis such as detecting characters or recognizing cinematography properties at the shot level, less effort has been devoted to understanding the most basic video edit, **the Cut**. We construct a large-scale dataset called MovieCuts, which contains more than 170K video clips labeled among ten cut types. 
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+links:
+- name: Preprint 
+  url: https://arxiv.org/abs/2109.05569
+url_pdf: https://arxiv.org/pdf/2109.05569.pdf
+url_code: github.com
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
