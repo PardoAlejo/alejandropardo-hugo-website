@@ -26,9 +26,21 @@ design:
 
 ---
 
+## <span style="color:gray">2023</span>
+
+<span style="color:gray">[2023-01-03]</span> I finished my internship with [Adobe Research](https://research.adobe.com/) under the supervision of [Fabian Caba Heilbron](https://fabiancaba.com/). Research paper and project coming soon! 
+
+
+<span style="color:gray">[2023-01-03]</span> I was accepted for an internship with Adobe Research!. 
+
 ## <span style="color:gray">2022</span>
 
-<span style="color:gray">[2022-07-03]</span> MovieCuts Accepted at ECCV 2022! [Publication coming soon!]. 
+<span style="color:gray">[2022-11-03]</span> I interned at the Embodied AI Lab at Intel in Munich, Germany. Under the supervision of [Matthias Müller](https://scholar.google.com/citations?user=AeMLOMEAAAAJ&hl=en). 
+
+<span style="color:gray">[2022-07-03]</span> I was an [outstanding reviewer](https://eccv2022.ecva.net/program/outstanding-reviewers/) for ECCV-2022!! . 
+
+
+<span style="color:gray">[2022-07-03]</span> [MovieCuts Accepted at ECCV 2022!](https://eccv2022.ecva.net/program/accepted-papers/) . 
 
 <span style="color:gray">[2022-06-21]</span> We presented MAD at CVPR 2022! [Publication here](https://openaccess.thecvf.com/content/CVPR2022/html/Soldan_MAD_A_Scalable_Dataset_for_Language_Grounding_in_Videos_From_CVPR_2022_paper.html). 
 

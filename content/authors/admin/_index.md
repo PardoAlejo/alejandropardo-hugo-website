@@ -45,6 +45,9 @@ email: alejandro.pardo@kaust.edu.sa
 superuser: true
 highlight_name: false
 ---
-I'm a Ph.D. Student at [KAUST](https://www.kaust.edu.sa/en) in Saudi Arabia. I'm part of the Image and Video Understanding Lab [IVUL](https://cemse.kaust.edu.sa/ivul) under the supervision of Professor [Bernard Ghanem](http://www.bernardghanem.com/). I'm a former member of the Biomedical Computer Vision Lab [BCV](https://biomedicalcomputervision.uniandes.edu.co) at [Uniandes](https://uniandes.edu.co/en) where I completed my M.Sc​. degree advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). I completed my undergrad studies in Electrical Engineering and Biomedical Engineering at the same university. I've worked on Temporal Action Localization and Object Detection in the past. My current research interest is AI for Creative Video Editing and Understanding. 
+
+I'm a Ph.D. student at [KAUST](https://www.kaust.edu.sa/en) in Saudi Arabia. I'm a member of the Image and Video Understanding Lab ([IVUL](https://cemse.kaust.edu.sa/ivul)) under the supervision of Professor [Bernard Ghanem](http://www.bernardghanem.com/). Previously, I was a member of the Biomedical Computer Vision Lab ([BCV](https://biomedicalcomputervision.uniandes.edu.co)) at [Uniandes](https://uniandes.edu.co/en), where I completed my M.Sc. degree advised by [Pablo Arbelaez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en). I also interned at the Embodied AI Lab at Intel and Adobe Research. My work has encompassed various areas, including Temporal Action Localization, Object Detection, Video-Language Grounding, Video Summarization, and more. Currently, my research focuses on AI for Creative Video Editing and Understanding, situated at the intersection of Creativity and Perception. If you share similar interests, please don't hesitate to reach out. I'd be delighted to engage in conversation! 
+
+I am actively looking for internships and permanent positions!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
