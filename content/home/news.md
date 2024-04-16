@@ -28,6 +28,14 @@ design:
 
 ## <span style="color:gray">2023</span>
 
+<span style="color:gray">[2024-04-16]</span> I was one of the 180 accepted participants (out of 626 applicants) to attend the [International Computer Vision Summer School (ICVSS) 2024](https://iplab.dmi.unict.it/icvss2024/Home) in Sicily, Italy!
+
+<span style="color:gray">[2024-04-16]</span> Our paper on Automatic Trailer Generation was accepted to CVPR-2024. You can find a preprint following this link: [Towards Automated Trailer Generation](https://arxiv.org/abs/2404.03477).
+
+<span style="color:gray">[2024-04-12]</span> I attended the first [ELLIS Winter School on Foundation Models](https://amsterdam-fomo.github.io/) organized by the ELLIS unit at the University of Amsterdam!
+
+## <span style="color:gray">2023</span>
+
 <span style="color:gray">[2023-01-03]</span> I finished my internship with [Adobe Research](https://research.adobe.com/) under the supervision of [Fabian Caba Heilbron](https://fabiancaba.com/). Research paper and project coming soon! 
 
 
