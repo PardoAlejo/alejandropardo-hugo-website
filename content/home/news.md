@@ -26,7 +26,7 @@ design:
 
 ---
 
-## <span style="color:gray">2023</span>
+## <span style="color:gray">2024</span>
 
 <span style="color:gray">[2024-04-16]</span> I was one of the 180 accepted participants (out of 626 applicants) to attend the [International Computer Vision Summer School (ICVSS) 2024](https://iplab.dmi.unict.it/icvss2024/Home) in Sicily, Italy!
 
