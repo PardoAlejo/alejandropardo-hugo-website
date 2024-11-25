@@ -47,8 +47,8 @@ highlight_name: false
 ---
 
 
-<div style="background-color: #ffcccb; color: #000; padding: 40px; text-align: center; font-size: 30px; border: 5px solid red; margin-bottom: 30px;">
-  <strong>⚠️ NOTICE:</strong> This website is no longer updated. Please visit <a href="https://alejandropardo.github.io" style="font-weight: bold; color: #0056b3; font-size: 32px;">alejandropardo.github.io</a> for the latest information.
+<div style="background-color: #ffcccb; color: #000; padding: 20px; text-align: center; font-size: 20px; border: 3px solid red; margin-bottom: 20px;">
+  <strong>⚠️ NOTICE:</strong> This website is no longer updated. Please visit <a href="https://alejandropardo.github.io" style="font-weight: bold; color: #0056b3;">alejandropardo.github.io</a> for the latest information.
 </div>
 
 
