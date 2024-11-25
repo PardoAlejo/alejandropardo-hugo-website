@@ -48,7 +48,7 @@ highlight_name: false
 
 
 <div style="background-color: #ffcccb; color: #000; padding: 20px; text-align: center; font-size: 20px; border: 3px solid red; margin-bottom: 20px;">
-  <strong>⚠️ NOTICE:</strong> This website is no longer updated. Please visit <a href="https://pardoalejo.github.io" style="font-weight: bold; color: #0056b3;">alejandropardo.github.io</a> for the latest information.
+  <strong>⚠️ NOTICE:</strong> This website is no longer updated. Please visit <a href="https://pardoalejo.github.io" style="font-weight: bold; color: #0056b3;">pardoalejo.github.io</a> for the latest information.
 </div>
 
 
